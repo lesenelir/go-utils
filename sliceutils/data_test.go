@@ -57,5 +57,3 @@ func TestGetElement(t *testing.T) {
 		t.Errorf("GetElement() = %d, want %d", ele, 3)
 	}
 }
-
-// Add more tests for other methods as necessary
